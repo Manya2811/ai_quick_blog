@@ -32,9 +32,15 @@ Unlike static blogs, this application features an **AI-Powered Writing Assistant
 
 ### 📸 **Screenshots**
 
-| Admin Dashboard | AI Writing Tool |
-| :---: | :---: |
-| *(Add Screenshot 1)* | *(Add Screenshot 2)* |
+
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/48a3740c-c35d-47cd-bb2f-78a7ccd36c81" />
+<img width="1876" height="828" alt="image" src="https://github.com/user-attachments/assets/d6d3bd3b-e32b-424e-ae0b-817df0741ca8" />
+<img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/44401483-15e1-4ecb-9b82-54dbb1249cac" />
+<img width="1917" height="864" alt="image" src="https://github.com/user-attachments/assets/f169f1ec-106b-432c-af7d-d143211f9237" />
+<img width="1919" height="837" alt="image" src="https://github.com/user-attachments/assets/ea62dea1-e18b-44da-b252-11ec0c2c4a95" />
+
+
+
 
 ---
 
